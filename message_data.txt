@@ -1,0 +1,69 @@
+{
+    "_": "Message",
+    "message_id": 149,
+    "from_user": {
+        "_": "User",
+        "id": 1250977498,
+        "is_self": false,
+        "is_contact": false,
+        "is_mutual_contact": false,
+        "is_deleted": false,
+        "is_bot": false,
+        "is_verified": false,
+        "is_restricted": false,
+        "is_scam": false,
+        "is_fake": false,
+        "is_support": false,
+        "first_name": "Abyss Walker",
+        "status": "recently",
+        "username": "ARTOFBUG",
+        "language_code": "en",
+        "dc_id": 4,
+        "photo": {
+            "_": "ChatPhoto",
+            "small_file_id": "AQADBAADx7cxG8WruVAACBK_nDZdAAMCAAPaZpBKAASItXXanZcKbnM_AAIeBA",
+
+            "small_photo_unique_id": "AQADEr-cNl0AA3M_AAI",
+            "big_file_id": "AQADBAADx7cxG8WruVAACBK_nDZdAAMDAAPaZpBKAASItXXanZcKbnU_AAIeBA",
+            "big_photo_unique_id": "AQADEr-cNl0AA3U_AAI"
+        }
+    },
+    "date": "2021-12-14 12:54:20",
+    "chat": {
+        "_": "Chat",
+        "id": 1250977498,
+        "type": "private",
+        "is_verified": false,
+        "is_restricted": false,
+        "is_scam": false,
+        "is_fake": false,
+        "is_support": false,
+        "username": "ARTOFBUG",
+        "first_name": "Abyss Walker",
+        "photo": {
+            "_": "ChatPhoto",
+            "small_file_id": "AQADBAADx7cxG8WruVAACBK_nDZdAAMCAAPaZpBKAASItXXanZcKbnM_AAIeBA",
+
+            "small_photo_unique_id": "AQADEr-cNl0AA3M_AAI",
+            "big_file_id": "AQADBAADx7cxG8WruVAACBK_nDZdAAMDAAPaZpBKAASItXXanZcKbnU_AAIeBA",
+            "big_photo_unique_id": "AQADEr-cNl0AA3U_AAI"
+        },
+        "dc_id": 4
+    },
+    "mentioned": false,
+    "scheduled": false,
+    "from_scheduled": false,
+    "text": "/start",
+    "entities": [
+        {
+            "_": "MessageEntity",
+            "type": "bot_command",
+            "offset": 0,
+            "length": 6
+        }
+    ],
+    "outgoing": false,
+    "command": [
+        "start"
+    ]
+}

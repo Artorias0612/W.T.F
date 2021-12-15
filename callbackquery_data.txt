@@ -1,0 +1,160 @@
+{
+    "_": "CallbackQuery",
+    "id": "5372907442076438366",
+    "from_user": {
+        "_": "User",
+        "id": 1250977498,
+        "is_self": false,
+        "is_contact": false,
+        "is_mutual_contact": false,
+        "is_deleted": false,
+        "is_bot": false,
+        "is_verified": false,
+        "is_restricted": false,
+        "is_scam": false,
+        "is_fake": false,
+        "is_support": false,
+        "first_name": "Abyss Walker",
+        "status": "recently",
+        "username": "ARTOFBUG",
+        "language_code": "en",
+        "dc_id": 4,
+        "photo": {
+            "_": "ChatPhoto",
+            "small_file_id": "AQADBAADx7cxG8WruVAACBK_nDZdAAMCAAPaZpBKAASItXXanZcKbnM_AAIeBA",
+
+            "small_photo_unique_id": "AQADEr-cNl0AA3M_AAI",
+            "big_file_id": "AQADBAADx7cxG8WruVAACBK_nDZdAAMDAAPaZpBKAASItXXanZcKbnU_AAIeBA",
+            "big_photo_unique_id": "AQADEr-cNl0AA3U_AAI"
+        }
+    },
+    "chat_instance": "-6540873243257461476",
+    "message": {
+        "_": "Message",
+        "message_id": 181,
+        "from_user": {
+            "_": "User",
+            "id": 2104577084,
+            "is_self": true,
+            "is_contact": false,
+            "is_mutual_contact": false,
+            "is_deleted": false,
+            "is_bot": true,
+            "is_verified": false,
+            "is_restricted": false,
+            "is_scam": false,
+            "is_fake": false,
+            "is_support": false,
+            "first_name": "Python Bot",
+            "username": "AsrarSchoolbot",
+            "dc_id": 4,
+            "photo": {
+                "_": "ChatPhoto",
+                "small_file_id": "AQADBAADxroxGx2cmVAACC2_zjVdAAMCAAM8THF9AAQgeDi96-dwyv6dAAIeBA",
+                "small_photo_unique_id": "AQADLb_ONV0AA_6dAAI",
+                "big_file_id": "AQADBAADxroxGx2cmVAACC2_zjVdAAMDAAM8THF9AAQgeDi96-dwygABngACHgQ",
+                "big_photo_unique_id": "AQADLb_ONV0ABJ4AAg"
+            }
+        },
+        "date": "2021-12-15 16:25:49",
+        "chat": {
+            "_": "Chat",
+            "id": 1250977498,
+            "type": "private",
+            "is_verified": false,
+            "is_restricted": false,
+            "is_scam": false,
+            "is_fake": false,
+            "is_support": false,
+            "username": "ARTOFBUG",
+            "first_name": "Abyss Walker",
+            "photo": {
+                "_": "ChatPhoto",
+                "small_file_id": "AQADBAADx7cxG8WruVAACBK_nDZdAAMCAAPaZpBKAASItXXanZcKbnM_AAIeBA",
+                "small_photo_unique_id": "AQADEr-cNl0AA3M_AAI",
+                "big_file_id": "AQADBAADx7cxG8WruVAACBK_nDZdAAMDAAPaZpBKAASItXXanZcKbnU_AAIeBA",
+                "big_photo_unique_id": "AQADEr-cNl0AA3U_AAI"
+            },
+            "dc_id": 4
+        },
+        "mentioned": false,
+        "scheduled": false,
+        "from_scheduled": false,
+        "text": "Please Select Any Coin",
+        "outgoing": true,
+        "reply_markup": {
+            "_": "InlineKeyboardMarkup",
+            "inline_keyboard": [
+                [
+                    {
+                        "_": "InlineKeyboardButton",
+                        "text": "BTC",
+                        "callback_data": "bitcoin"
+                    },
+                    {
+                        "_": "InlineKeyboardButton",
+                        "text": "ETH",
+                        "callback_data": "ethereum"
+                    },
+                    {
+                        "_": "InlineKeyboardButton",
+                        "text": "BNB",
+                        "callback_data": "binancecoin"
+                    }
+                ],
+                [
+                    {
+                        "_": "InlineKeyboardButton",
+                        "text": "BLOCK",
+                        "callback_data": "blocknet"
+                    },
+                    {
+                        "_": "InlineKeyboardButton",
+                        "text": "DOT",
+                        "callback_data": "polkadot"
+                    },
+                    {
+                        "_": "InlineKeyboardButton",
+                        "text": "DOGE",
+                        "callback_data": "dogecoin"
+                    }
+                ],
+                [
+                    {
+                        "_": "InlineKeyboardButton",
+                        "text": "FTM",
+                        "callback_data": "fantom"
+                    },
+                    {
+                        "_": "InlineKeyboardButton",
+                        "text": "ZIL",
+                        "callback_data": "zilliqa"
+                    },
+                    {
+                        "_": "InlineKeyboardButton",
+                        "text": "TRX",
+                        "callback_data": "tron"
+                    }
+                ],
+                [
+                    {
+                        "_": "InlineKeyboardButton",
+                        "text": "BTT",
+                        "callback_data": "bittorrent"
+                    },
+                    {
+                        "_": "InlineKeyboardButton",
+                        "text": "AVAX",
+                        "callback_data": "avalanch"
+                    },
+                    {
+                        "_": "InlineKeyboardButton",
+                        "text": "ADA",
+                        "callback_data": "cardano"
+                    }
+                ]
+            ]
+        }
+    },
+    "data": "ethereum"
+}
