@@ -91,7 +91,7 @@ async def main(client, message):
 
         music = ['1.mp3', '2.mp3', '3.mp3', '4.mp3', '5.mp3', '6.mp3', '7.mp3', '8.mp3', '9.mp3', '10.mp3', '11.mp3', '12.mp3', '13.mp3', '14.mp3']
         selected_music = random.choice(music)
-        await bot.send_audio(chat_id, selected_music, '@AsrarSchoolbot')
+        await bot.send_audio(chat_id, selected_music, '@WTF0612bot')
 
     if text == "Wallpaper":
 
@@ -99,7 +99,7 @@ async def main(client, message):
                      'w19.jpg', 'w20.png', 'w21.jpg', 'w22.jpg', 'w23.png', 'w24.jpg']
         selected_wallpaper = random.choice(Wallpaper)
 
-        await bot.send_document(chat_id, selected_wallpaper, caption='@AsrarSchoolbot')
+        await bot.send_document(chat_id, selected_wallpaper, caption='@WTF0612bot')
 
     if text == "Help":
 
