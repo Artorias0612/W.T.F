@@ -10,7 +10,7 @@ __version__ = 0.01
 bot = Client(session_name="Bot",
              api_hash='1b852557e771a37f4609749afeeeed78',
              api_id='427059',
-             bot_token='2104577084:AAEt7_CldnJMWfmcxLJbc8Rhmhzi8heIr9E')
+             bot_token='5063247147:AAEbDZ72rJzmkxnc7uaUvLEF6HF3jdzXj4Y')
 
 # Start Function
 
