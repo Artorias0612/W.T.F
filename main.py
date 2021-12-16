@@ -5,7 +5,7 @@ from pycoingecko import CoinGeckoAPI
 from requests import *
 import random
 
-
+__version__ = 0.01
 
 bot = Client(session_name="Bot",
              api_hash='1b852557e771a37f4609749afeeeed78',
