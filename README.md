@@ -4,6 +4,6 @@ W.T.F is a Telegram Bot
 
 This Telegram Bot Have This options:
 
--1 Send a Random Music
--2 Send a Random Wallpaper
--3 Found a CryptoCurrencies Price
+<lr> Send a Random Music </lr>
+<lr> Send a Random Wallpaper</lr>
+<lr> Found a CryptoCurrencies Price</lr>
