@@ -1,0 +1,112 @@
+{
+    "_": "Message",
+    "message_id": 18,
+    "from_user": {
+        "_": "User",
+        "id": 1250977498,
+        "is_self": false,
+        "is_contact": false,
+        "is_mutual_contact": false,
+        "is_deleted": false,
+        "is_bot": false,
+        "is_verified": false,
+        "is_restricted": false,
+        "is_scam": false,
+        "is_fake": false,
+        "is_support": false,
+        "first_name": "Abyss Walker",
+        "status": "recently",
+        "username": "ARTOFBUG",
+        "language_code": "en",
+        "dc_id": 4,
+        "photo": {
+            "_": "ChatPhoto",
+            "small_file_id": "AQADBAADx7cxG8WruVAACBK_nDZdAAMCAAPaZpBKAASjy65Q_fHM13M_AAIeBA",
+            "small_photo_unique_id": "AQADEr-cNl0AA3M_AAI",
+            "big_file_id": "AQADBAADx7cxG8WruVAACBK_nDZdAAMDAAPaZpBKAASjy65Q_fHM13U_AAIeBA",
+            "big_photo_unique_id": "AQADEr-cNl0AA3U_AAI"
+        }
+    },
+    "date": "2022-01-12 12:05:35",
+    "chat": {
+        "_": "Chat",
+        "id": 1250977498,
+        "type": "private",
+        "is_verified": false,
+        "is_restricted": false,
+        "is_scam": false,
+        "is_fake": false,
+        "is_support": false,
+        "username": "ARTOFBUG",
+        "first_name": "Abyss Walker",
+        "photo": {
+            "_": "ChatPhoto",
+            "small_file_id": "AQADBAADx7cxG8WruVAACBK_nDZdAAMCAAPaZpBKAASjy65Q_fHM13M_AAIeBA",
+            "small_photo_unique_id": "AQADEr-cNl0AA3M_AAI",
+            "big_file_id": "AQADBAADx7cxG8WruVAACBK_nDZdAAMDAAPaZpBKAASjy65Q_fHM13U_AAIeBA",
+            "big_photo_unique_id": "AQADEr-cNl0AA3U_AAI"
+        },
+        "dc_id": 4
+    },
+    "reply_to_message": {
+        "_": "Message",
+        "message_id": 17,
+        "from_user": {
+            "_": "User",
+            "id": 1926801217,
+            "is_self": false,
+            "is_contact": false,
+            "is_mutual_contact": false,
+            "is_deleted": false,
+            "is_bot": true,
+            "is_verified": false,
+            "is_restricted": false,
+            "is_scam": false,
+            "is_fake": false,
+            "is_support": false,
+            "first_name": "Unsupported User",
+            "username": "UnsupportedUser64Bot",
+            "dc_id": 1,
+            "photo": {
+                "_": "ChatPhoto",
+                "small_file_id": "AQADAQADtrUxG9mCSUUACJ-yWlMXAAMCAANBp9hyAATRI9vIKV8B_8ZhAAIeBA",
+                "small_photo_unique_id": "AQADn7JaUxcAA8ZhAAI",
+                "big_file_id": "AQADAQADtrUxG9mCSUUACJ-yWlMXAAMDAANBp9hyAATRI9vIKV8B_8hhAAIeBA",
+                "big_photo_unique_id": "AQADn7JaUxcAA8hhAAI"
+            }
+        },
+        "date": "2022-01-12 12:05:18",
+        "chat": {
+            "_": "Chat",
+            "id": 1250977498,
+            "type": "private",
+            "is_verified": false,
+            "is_restricted": false,
+            "is_scam": false,
+            "is_fake": false,
+            "is_support": false,
+            "username": "ARTOFBUG",
+            "first_name": "Abyss Walker",
+            "photo": {
+                "_": "ChatPhoto",
+                "small_file_id": "AQADBAADx7cxG8WruVAACBK_nDZdAAMCAAPaZpBKAASjy65Q_fHM13M_AAIeBA",
+                "small_photo_unique_id": "AQADEr-cNl0AA3M_AAI",
+                "big_file_id": "AQADBAADx7cxG8WruVAACBK_nDZdAAMDAAPaZpBKAASjy65Q_fHM13U_AAIeBA",
+                "big_photo_unique_id": "AQADEr-cNl0AA3U_AAI"
+            },
+            "dc_id": 4
+        },
+        "mentioned": false,
+        "scheduled": false,
+        "from_scheduled": false,
+        "text": "Dd",
+        "outgoing": true
+    },
+    "mentioned": false,
+    "scheduled": false,
+    "from_scheduled": false,
+    "text": "Yy",
+    "outgoing": false
+}
+
+
